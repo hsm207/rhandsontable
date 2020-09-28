@@ -41,7 +41,8 @@ Suggests:
     shiny (>= 0.13),
     miniUI (>= 0.1.1),
     rstudioapi (>= 0.6),
-    htmltools
+    htmltools,
+    testthat
 VignetteBuilder: knitr
 RoxygenNote: 7.0.2
 Encoding: UTF-8
